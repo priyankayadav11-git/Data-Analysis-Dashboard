@@ -31,3 +31,13 @@ Percentage of Total Orders delivered.
 ## Dashboard
 <img width="1731" height="677" alt="Screenshot_26-9-2026_21821_view officeapps live com" src="https://github.com/user-attachments/assets/12dae771-ee2b-43e0-b0d9-805a2dc659c7" />
 
+## Project Insight
+-Women customers are more likely to buy products compared to men (~65%).
+
+-The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
+
+-The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
+
+-The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
+
+-More than 90% of the products delivered
