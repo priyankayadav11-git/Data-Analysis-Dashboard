@@ -27,3 +27,7 @@ Percentage of Total Orders delivered.
 -Created pivot tables according to the questions asked.
 
 -Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+
+## Dashboard
+<img width="1731" height="677" alt="Screenshot_26-9-2026_21821_view officeapps live com" src="https://github.com/user-attachments/assets/12dae771-ee2b-43e0-b0d9-805a2dc659c7" />
+
